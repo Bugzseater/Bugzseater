@@ -16,10 +16,14 @@ Currently focused on React, Next.js, and modern UI development.
 - HTML, CSS, JavaScript  
 - React  
 - Next.js  
-- Tailwind CSS  
+- Tailwind CSS
+- JAVA
+- Kotlin
 
 ### Backend & Tools
-- Firebase  
+- Firebase
+- SQLite
+- MySQL 
 - Git & GitHub  
 
 ---
